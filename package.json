@@ -1,0 +1,30 @@
+{ 
+   "name": "sit725-prac1", 
+   "version": "1.0.0", 
+   "description": "First node js prac", 
+   "main": "server.js", 
+   "scripts": { 
+     "start": "nodemon server.js" 
+   }, 
+   "repository": { 
+     "type": "git", 
+     "url": "git+https://github.com/priyanka8170/sit725-2022-t3-prac1.git" 
+   }, 
+   "keywords": [ 
+     "nodejs", 
+     "express", 
+     "server" 
+   ], 
+   "author": "‏Muhammad Haroon", 
+   "license": "MIT", 
+   "bugs": { 
+     "url": "https://github.com/priyanka8170/sit725-2022-t3-prac1/issues" 
+   }, 
+   "homepage": "https://github.com/priyanka8170/sit725-2022-t3-prac1#readme", 
+   "dependencies": { 
+     "express": "^4.17.1" 
+   }, 
+   "devDependencies": { 
+     "nodemon": "^2.0.15" 
+   } 
+ }
